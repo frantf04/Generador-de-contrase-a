@@ -259,22 +259,23 @@ a:hover {
 
 	.app .fila {
 		flex-direction: column;
-		margin-bottom: 20px;
+		margin-bottom: 10px;
 	}
 
 	.app .fila .col {
 		width: 100%;
-		margin-bottom: 20px;
+		margin-bottom: 5px;
 	}
 
 	.app .fila.generar {
 		border-top:1px solid rgba(255,255,255,.25);
-		padding-top:40px;
+		padding-top:20px;
 	}
 
 	.app .fila.generar .col:nth-child(1), 
 	.app .fila.generar .col:nth-child(2) {
 		width: 100%;
+		margin-bottom: 10px;
 	}
 
 	.app .fila.generar .btn.btn-generar:after {
