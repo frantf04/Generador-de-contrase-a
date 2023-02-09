@@ -1,6 +1,6 @@
 (function () {
   /* ---------------------------------------------*/
-  /*         variables y objetos generale         */
+  /*         variables y objetos generales         */
   /* ---------------------------------------------*/
 
   let app = document.getElementById('app');
